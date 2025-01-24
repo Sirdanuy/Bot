@@ -1,3 +1,8 @@
+First 
+Run npm install
+
+
+
 Change these on Mainnet 
 
 const issuerAddress = "your issuer address of the collection"; // Replace with your issuer address
