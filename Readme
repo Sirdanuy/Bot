@@ -1,0 +1,7 @@
+Change these on Mainnet 
+
+const issuerAddress = "your issuer address of the collection"; // Replace with your issuer address
+const xrplEndpoint = "change to any wss mainnet provider"; // Change to mainnet for production
+
+
+for now you can use this wss://little-palpable-moon.xrp-mainnet.quiknode.pro/b655973898071cc66008ae9f13af85a817c66134
